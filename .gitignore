@@ -1,5 +1,11 @@
 # Binary
+a.out
 main.out
+main.exe
+
+# Config
+.vscode
 
 # Research before linking
 Resources/
+README.hidden.md
